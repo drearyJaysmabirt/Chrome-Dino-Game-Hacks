@@ -36,7 +36,7 @@ Check the full bill of materials 👉 [componentlist.csv](assets/componentlist.c
 
 ---
 
-Want the full code? Check it out here 👉 Arduino/chromedinogamecode.ino
+Want the full code? Check it out here 👉 [Arduino Code](Arduino/chromedinogamecode.ino)
 
 ### 🎉 Why Build This?
 Because… why not? It’s fun, nerdy, and an awesome way to learn hardware interfacing, automate games...
