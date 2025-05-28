@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"RLDR",1," Photoresistor"
+"U1",1," Arduino Uno R3"
+"SERVO1",1,"Positional Micro Servo"
+"R1",1,"1 kΩ Resistor"
